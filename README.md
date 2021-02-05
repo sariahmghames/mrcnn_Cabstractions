@@ -1,4 +1,5 @@
 # mrcnn_CustomShapes
+This repo is a WIP under project Deep Pi Harvester. For any questions Email: sariahmghames@gmail.com
 
 For the full original work on Mask_RCNN please refer to: https://github.com/matterport/Mask_RCNN
 Also the additional original packages should be cloned from the original repo
