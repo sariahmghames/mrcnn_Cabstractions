@@ -1,4 +1,4 @@
-## mrcnn_CustomShapes
+## mask rcnn custom abstractions
 
 This repo is a WIP under project Deep Pi Harvester. 
 
